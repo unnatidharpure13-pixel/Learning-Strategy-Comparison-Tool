@@ -5,6 +5,7 @@ An interactive web-based application that compares Rote Learning and Inductive L
 This project demonstrates how inductive learning generalizes better than memorization-based approaches through predictions and visualizations.
 
 🚀 Features
+
 📄 Dataset preview
 🧠 Comparison of Rote vs Inductive Learning
 📊 Feature importance visualization
@@ -42,7 +43,7 @@ Run the app:
 python -m streamlit run app.py
 
 🌐 Live Demo
-
+https://learning-strategy-comparison-tool.streamlit.app/
 
 📊 Learning Strategies Explained
 
