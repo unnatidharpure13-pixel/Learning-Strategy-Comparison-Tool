@@ -6,7 +6,7 @@ An interactive web-based application that compares **Rote Learning** and **Induc
 
 ## 🌐 Live Demo
 
-👉 https://learning-strategy-comparison-tool.streamlit.app/
+👉 https://learning-strategy-comparison-tool.streamlit.app/ 
 
 ---
 
