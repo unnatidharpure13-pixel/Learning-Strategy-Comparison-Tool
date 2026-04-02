@@ -6,12 +6,18 @@ This project demonstrates how inductive learning generalizes better than memoriz
 
 🚀 Features
 
-📄 Dataset preview
+📄 Dataset preview 
+
 🧠 Comparison of Rote vs Inductive Learning
+
 📊 Feature importance visualization
+
 🔍 Manual input for prediction
+
 ⚖️ Side-by-side prediction comparison
+
 📉 Graph-based result analysis
+
 
 🧪 Technologies Used
 Python
@@ -21,11 +27,12 @@ scikit-learn
 matplotlib
 
 📁 Project Structure
-learning-strategy-comparison/
+
+learning-strategy-comparison/ 
 │
-├── app.py
-├── requirements.txt
-└── dataset/
+├── app.py 
+├── requirements.txt  
+└── dataset/ 
     └── diabetes.csv
 
 ⚙️ How to Run Locally
