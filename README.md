@@ -32,13 +32,13 @@ An interactive web-based application that compares **Rote Learning** and **Induc
 ---
 ## 📁 Project Structure
 
-learning-strategy-comparison/
-│
-├── app.py
-├── requirements.txt
-└── dataset/
-└── diabetes.csv
-
+```
+Learning-Strategy-Comparison-Tool/
+│── app.py
+│── requirements.txt
+│── dataset/
+│   └── diabetes.csv
+```
 ---
 
 ## ⚙️ How to Run Locally
